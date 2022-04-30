@@ -1,7 +1,6 @@
 console.log("This is a test.");
 
 
-let rock = "I am the rock.";
+let objectiveTruth = "No you are not the rock. The rock doesn't exist.";
 
 console.log(`Yeah that's right.`);
-console.log(`${rock}`);
